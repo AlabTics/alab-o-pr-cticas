@@ -1,7 +1,7 @@
 <?php defined ('SYSPATH') OR die ('No direct scrpt access.'); ?>
 
 <style>
-	body{color: #000099;}
+	body{color: green;}
 
 	table{background: #CCF2FF; border: 10; border-color: black; width: 50%;}
 
@@ -16,7 +16,7 @@
 		text-decoration: none;
 	}
 	#trl{
-		color: #FFFFFF; background-color: #003399;
+		color: #FFFFFF; background-color: red;
 	}
 </style>
 <div style="font-size: 20px;"><?=$content?></div>
