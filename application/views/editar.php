@@ -56,7 +56,7 @@
 			<?=Form::hidden('id',$usuario->id)?>
 			<?=Form::submit('btn_submit','Actualizar')?> 
 			<?=html::anchor('kohana/','Cancelar')?>
-			<!– ]Verificar el tipo de etiqueta es decir tiene que ser submit o buuton–>
+			<!– Verificar el tipo de etiqueta es decir tiene que ser submit o button–>
 		</td>
 	</tr>
 </table>
